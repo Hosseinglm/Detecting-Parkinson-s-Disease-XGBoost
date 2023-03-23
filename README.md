@@ -1,4 +1,4 @@
-# Detecting-Parkinson-s-Disease-XGBoost
+# Detecting Parkinson's Disease via XGBoost
 
 Parkinson's disease is a progressive neurological disorder that affects movement. 
 It is caused by the degeneration of dopamine-producing neurons in the brain. Symptoms of Parkinson's disease include tremors, stiffness,
